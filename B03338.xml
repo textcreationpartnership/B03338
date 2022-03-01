@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Flos ingenii vel evacuatio discriptionis. Being an exact description of Epsam, and Epsam Wells.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03338</idno>
+            <idno type="STC">Wing F1382</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[369]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.19.[40]</idno>
+            <idno type="EEBO-CITATION">99885510</idno>
+            <idno type="PROQUEST">ocm99885510</idno>
+            <idno type="VID">181691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181691)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[373]; D2:1[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Flos ingenii vel evacuatio discriptionis. Being an exact description of Epsam, and Epsam Wells.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on Epsom and its medicinal waters.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mineral waters --  England --  Epsom and Ewell --  Humor --  Early works to 1800.</term>
+               <term>Epsom and Ewell (England) --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:181691:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>FLOS INGENII VEL Evacuatio Diſcriptionis.</head>
+            <head type="sub">Being an Exact DESCRIPTION of EPSAM, and EPSAM WELLS.</head>
+            <p>IT is a ſorry Town, ſhituate in a good aire, naturally bounded with <hi>Bumſteed</hi> downs on the Eaſt, and <hi>Arſteed</hi> on the South, the reſt lyes open like a bare Buttock to be laſht by the Deſcriber of it. The Heath or Common where the Well ſtands cannot but be a bluſtring place, the wind blowing from ſo many corners at once; Tis naturally barren, but being well dung'd it cauſeth it in great abundance to produce divers Drug's and Vegetatives, as Arſnick, Aſſa faetida, Water-creaſſes, and Scurvy graſs. There are few Nettles to be found, but many Dock's, reſembling Muſhrooms, only theſe ſhoot up in a night and the other ſhite up in the morning. The Well it ſelf repreſents ſome great Farm houſe having ſo many fair back-ſides belonging to it. The Trees that will grow there are ſuch as bear your Piſtaccoes, and Medlers, commonly called Open-arſes. The Birds that frequent it, are the Bunting, the Thruſh in Latin called <hi>Turdus,</hi> and the Water-Wagtails; as for the Rookes they hover about the Bowling-green in the Town. The Heath or Common on which the Well ſtands, is a place contra di ſtinkt to Hide-Park, for here many ſecrets are diſcloſed. Concerning the virtues of the water they are many, it makes the women that drink it to be Malecontented: and many men that drink it, to have ſuch a ſwimming in their heads that they take other men's wives for their own. How quiet ſoever this water is in the well being drunk it makes its way throw many ſore Breeches of the body. Being drunk in the morning it will produce a Quiddiny of what-ſoever you did eat over night, here is the true <hi>Elixar Proprietatatis</hi> to be had of every ones own making. The ſtrength of this water you may judge of by making the ſtouteſt gallants of both Sexes to couch, it being of a ſtoopifying nature. No fiſh, they ſay, will live in this water but Smelts. Let people come never ſo well quallified and ſober to drink this water it will make them looſe in a few hours. Yet how looſe ſoever the drinkers of this water are, hither the Nonconformiſts come ſquirting, this water makes them Conformiſts, to conforme to the old way of evacuation, nay, to cringe and to bow, yea to do reverence in the place. And this they doe with the more confidence becauſe there is none there that can tell tails they are ſo many. When the water drinkers are in a Body on the Common as ſometimes they are poſtur'd you would take them to be the Repreſentatives of the Rump Parliament. How different ſo ever they are in their judge<g ref="char:EOLhyphen"/>ments they meet there with one Conſent. There are none idle there, but all at their Buſineſs. The Souldier he is preſenting, and giving fire. The Phiſician caſting of his Water, the Apothcary at his Cliſter, the Lawyer waiting for his motion, the Archer nock<g ref="char:EOLhyphen"/>ing of his Arrows; the Gramarian at his <hi>Ars in preſenti,</hi> the Muſitian at his ſtrain, but none of the ſweeteſt, the Mathematician erecting his Teliſcope, the Seaman cleanſing his Scupper hole; ſo that you would take it for a kind of Cacademy. There Men play at back Gammon with<g ref="char:EOLhyphen"/>out Tables, and Women at Beaſt without Cards. And as the ſilly Buſtard, as <hi>Stinkfeildius</hi> ſaith, thinks if his head be hid in a buſh or brake, his whole body is inviſible too, thus theſe wa<g ref="char:EOLhyphen"/>ter drinkers, ſo their Tayles be hid they care not if their heads, and all the reſt of their bodies be ſeen. Here two diſtant times or ſeaſons of the year do meet in a moment or minute, the Spring and the Fall; for they no ſooner duck down, but they are up againe. There, though a mixt company they are not confus'd for they go in rank, and file, <hi>or dine quiſ que ſuo,</hi> every one in his or<g ref="char:EOLhyphen"/>dure. None can loſe his friend long there, for 'tis but following his noſe, and he'l be ſure to find him: one thing there to be admir'd is this that piece of ground that look's green this mo<g ref="char:EOLhyphen"/>ment is all turd the next. One would think the Town of <hi>Epſam</hi> ſhould be a very rich place for no Citizen comes there but he leaves ſomewhat like gold behind him. Take the Town entire<g ref="char:EOLhyphen"/>ly together and you would think it ſome ſtrange beaſt, or monſter having ſuch a devouring <hi>MAW</hi> in it. To draw to a Concluſion, for the more we ſtirr, the more we ſhall ſtink in this buſineſs. <hi>Epſam,</hi> is a place to take the air in.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed in the year 1674.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
